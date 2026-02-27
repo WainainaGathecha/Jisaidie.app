@@ -1,0 +1,50 @@
+[
+  {
+    "id": "beauty",
+    "name": "Beauty",
+    "icon": "Sparkles",
+    "color": "pink"
+  },
+  {
+    "id": "food",
+    "name": "Food & Drinks",
+    "icon": "UtensilsCrossed",
+    "color": "orange"
+  },
+  {
+    "id": "hardware",
+    "name": "Hardware",
+    "icon": "Hammer",
+    "color": "amber"
+  },
+  {
+    "id": "furniture",
+    "name": "Furniture",
+    "icon": "Armchair",
+    "color": "blue"
+  },
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "icon": "Smartphone",
+    "color": "gray"
+  },
+  {
+    "id": "health",
+    "name": "Health & Fitness",
+    "icon": "Heart",
+    "color": "red"
+  },
+  {
+    "id": "retail",
+    "name": "Retail",
+    "icon": "ShoppingBag",
+    "color": "purple"
+  },
+  {
+    "id": "services",
+    "name": "Services",
+    "icon": "Wrench",
+    "color": "slate"
+  }
+]

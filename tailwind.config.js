@@ -1,0 +1,17 @@
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,jsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        brand: '#2563eb',
+      },
+      spacing: {
+        'safe': 'max(1rem, env(safe-area-inset-bottom))',
+      }
+    },
+  },
+  plugins: [],
+}
