@@ -2,7 +2,25 @@
 
 A mobile-first web application for discovering local businesses and services in Juja. Built to solve the problem of finding reliable local services like salons, electronic shops, hardware stores, furniture shops, and more - all in one searchable directory.
 
-**[See the Development Approach](./README_APPROACH.md)** for detailed planning and future feature guides.
+---
+
+## 🚀 New to This Project?
+
+**👉 [Read the Developer Onboarding Guide](./DEVELOPER_ONBOARDING.md)** for a comprehensive walkthrough that teaches you:
+- How to understand the codebase
+- Where to start reading files
+- How data flows through the app
+- Where to make changes
+- Common tasks & how to do them
+
+This guide is designed to get you productive in 30 minutes.
+
+---
+
+## 📚 Documentation
+
+- **[DEVELOPER_ONBOARDING.md](./DEVELOPER_ONBOARDING.md)** - For new developers (start here!)
+- **[README_APPROACH.md](./README_APPROACH.md)** - Development approach, architecture, and future feature implementation guides
 
 ## The Problem
 
