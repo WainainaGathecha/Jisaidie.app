@@ -19,7 +19,7 @@ export function HomePage() {
             Find Local Businesses in Juja
           </h1>
           <p className="text-lg text-gray-600 mb-8">
-            Discover salons, restaurants, hardware stores, and more—all curated for campus students.
+            Discover salons, restaurants, electronic stores, and more—all curated for campus students.
           </p>
 
           {/* Search CTA */}
