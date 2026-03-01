@@ -4,7 +4,7 @@ Welcome! This guide will help you understand the Jisaidie codebase from scratch.
 
 ---
 
-## 🎯 The Big Picture (Read This First)
+## The Big Picture (Read This First)
 
 ### What is Jisaidie?
 A **mobile-first web app for finding local businesses** in Juja. Think of it as:
